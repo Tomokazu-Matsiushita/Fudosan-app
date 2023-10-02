@@ -1,5 +1,0 @@
-selenium
-seaborn
-mtplotlib
-streamlit
-pandas
