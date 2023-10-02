@@ -2,7 +2,6 @@ requests
 os
 time
 json
-bs4
 BeautifulSoup
 pandas
 selenium
