@@ -1,10 +1,6 @@
 #必要なLibraryをimport
 import requests, os, time, json
 import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import re
 import urllib.parse
 from geopy.geocoders import GoogleV3
