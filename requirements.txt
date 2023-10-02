@@ -304,7 +304,7 @@ scikit-image @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/a
 scikit-learn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d8r_ofrzm7/croot/scikit-learn_1676911660546/work
 scipy==1.10.0
 Scrapy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_31eklp9fz0/croot/scrapy_1677738194352/work
-seaborn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2ci8qzbdyk/croot/seaborn_1673479197351/work
+seaborn
 selenium==4.11.2
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
