@@ -2,8 +2,7 @@ requests
 os
 time
 json
-beautifulsoup4
-BeautifulSoup
+from bs4 import BeautifulSoup
 pandas
 selenium
 selenium.webdriver.common.by
