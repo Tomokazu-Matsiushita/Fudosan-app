@@ -3,7 +3,6 @@ import requests, os, time, json
 import pandas as pd
 import re
 import urllib.parse
-from geopy.geocoders import GoogleV3
 import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy.stats import pointbiserialr
