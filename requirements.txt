@@ -1,5 +1,0 @@
-selenium
-seaborn
-matplotlib.pyplot
-streamlit
-pandas
