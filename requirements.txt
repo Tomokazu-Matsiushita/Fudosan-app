@@ -1,6 +1,0 @@
-selenium
-seaborn
-matplotlib
-streamlit
-pandas
-scipy
